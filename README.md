@@ -6,8 +6,8 @@
 ---
 
 ## 📋 Skenario
-
-Sebuah perusahaan startup dengan 30 karyawan membutuhkan infrastruktur jaringan yang:
+Sebuah perusahaan startup dengan 20 karyawan membutuhkan infrastruktur jaringan yang aman dan terorganisir. Jaringan dibagi menjadi 3 divisi: HRD (8 user), Developer (12 user), dan Server Room (1 server).
+Requirements yang harus dipenuhi:
 - Memisahkan traffic antar divisi menggunakan VLAN
 - Memberikan IP otomatis ke semua workstation via DHCP
 - Membatasi akses ke Server Room hanya untuk divisi tertentu (ACL)
@@ -67,7 +67,7 @@ Sebuah perusahaan startup dengan 30 karyawan membutuhkan infrastruktur jaringan 
 ## ✅ Hasil Verifikasi
 
 ### VLAN Assignment
-<img width="642" height="286" alt="image" src="https://github.com/user-attachments/assets/c12649c4-7874-4eb7-9308-228e9d8bfaff" />
+<img width="642" height="547" alt="image" src="https://github.com/user-attachments/assets/a3ac244e-0bc3-4737-9573-8fb20d3b363e" />
 
 
 ### Ping Test — HRD ke Developer (Berhasil ✅)
