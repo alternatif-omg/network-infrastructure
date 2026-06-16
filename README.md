@@ -36,7 +36,8 @@ Sebuah perusahaan startup dengan 30 karyawan membutuhkan infrastruktur jaringan 
 
 ## 🖥️ Topologi Jaringan
 
-<img width="535" height="462" alt="network" src="https://github.com/user-attachments/assets/a6f5aa4e-2d01-4d6b-8461-dff7f60260f7" />
+<img width="860" height="475" alt="image" src="https://github.com/user-attachments/assets/a4d551d4-7dd9-49d3-93b9-69b678e4ac8e" />
+
 
 ---
 
