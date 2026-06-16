@@ -52,21 +52,6 @@ Sebuah perusahaan startup dengan 30 karyawan membutuhkan infrastruktur jaringan 
 | Firewall | Extended Named ACL |
 
 ---
-
-## 📁 Struktur Repo
-
-```
-network-infrastructure-portfolio/
-├── README.md
-├── network-design.pkt          # File Packet Tracer
-└── images/
-    ├── topologi.png            # Diagram topologi keseluruhan
-    ├── vlan-brief.png          # Output show vlan brief
-    ├── ping-hrd-to-dev.png     # HRD → Developer (berhasil)
-    ├── ping-hrd-to-server.png  # HRD → Server (gagal/blocked)
-    └── ping-dev-to-server.png  # Developer → Server (berhasil)
-```
-
 ---
 
 ## 🚀 Cara Membuka Project
