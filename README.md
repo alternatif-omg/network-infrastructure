@@ -36,7 +36,7 @@ Sebuah perusahaan startup dengan 30 karyawan membutuhkan infrastruktur jaringan 
 
 ## 🖥️ Topologi Jaringan
 
-![Topologi](images/topologi.png)
+<img width="535" height="462" alt="network" src="https://github.com/user-attachments/assets/a6f5aa4e-2d01-4d6b-8461-dff7f60260f7" />
 
 ---
 
@@ -81,16 +81,20 @@ network-infrastructure-portfolio/
 ## ✅ Hasil Verifikasi
 
 ### VLAN Assignment
-<img width="641" height="297" alt="image" src="https://github.com/user-attachments/assets/e1aa4683-3d78-46b9-b06c-5e6b8e67c0d3" />
+<img width="642" height="286" alt="image" src="https://github.com/user-attachments/assets/c12649c4-7874-4eb7-9308-228e9d8bfaff" />
+
 
 ### Ping Test — HRD ke Developer (Berhasil ✅)
-![Ping HRD to Dev](images/ping-hrd-to-dev.png)
+<img width="561" height="206" alt="PingHRDkeDevBerhasil" src="https://github.com/user-attachments/assets/6de5de9d-8bc4-417b-8037-736c35ca5216" />
+
 
 ### Ping Test — HRD ke Server (Diblokir ACL ❌)
-![Ping HRD to Server](images/ping-hrd-to-server.png)
+<img width="492" height="177" alt="PingHRDkeServerGagal" src="https://github.com/user-attachments/assets/1fde5cb1-8323-46af-a28e-1c77b6bdb2c7" />
+
 
 ### Ping Test — Developer ke Server (Berhasil ✅)
-![Ping Dev to Server](images/ping-dev-to-server.png)
+<img width="465" height="205" alt="PingDevkeServerBerhasil" src="https://github.com/user-attachments/assets/d9181259-8918-458d-ab17-08ee56b5b96c" />
+
 
 ---
 
